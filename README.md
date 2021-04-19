@@ -7,7 +7,7 @@ The dataset is collected at Istanbul University-Cerrahpasa, Cerrahpasa Faculty o
 We have collected a new open-source dataset called IST-C, retrospectively from patients admitted to the Radiology department of Cerrahpasa Faculty of Medicine 
 from March 2020 to August 2020. 
 
-Download the dataset from [[Google Drive](https://drive.google.com/drive/folders/1VqP49qNvapCNTfjaff3eAQ23YtIDcKVN?usp=sharing)]
+Download the dataset from [[Google Drive](coming soon)]
 
 The collected dataset consists of 336 chest CT scans from COVID-19 infected patients, along with 245 scans showing normal lung parenchyma and 131 scans from Non-COVID-19 pneumonia, tumors and emphysema patients. 
 
