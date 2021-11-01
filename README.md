@@ -23,6 +23,7 @@ Istanbul University-Cerrahpaşa, Cerrahpaşa Faculty of Medicine.
 
 The use of this software is RESTRICTED to non-commercial research and educational purposes.
 
+```
 @article{ahmed2021covid,
 
   title={COVID-19 Detection in Computed Tomography Images with 2D and 3D Approaches},
@@ -34,4 +35,4 @@ The use of this software is RESTRICTED to non-commercial research and educationa
   year={2021}
   
 }
-
+```
